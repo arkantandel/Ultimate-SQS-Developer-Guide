@@ -119,7 +119,7 @@ flowchart LR
     C -->|Process| D[(Database / Service)]
     C -->|Delete| B
 
-## 🧠 Architecture Diagram — Basic Workflow
+## Architecture Diagram — Basic Workflow
 
 ```mermaid
 flowchart LR
