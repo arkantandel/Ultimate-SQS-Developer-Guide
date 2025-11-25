@@ -119,7 +119,7 @@ flowchart LR
     C -->|Process| D[(Database / Service)]
     C -->|Delete| B
 
-## Architecture Diagram — Basic Workflow
+## 🧠 Architecture Diagram — Basic Workflow
 
 ```mermaid
 flowchart LR
@@ -129,8 +129,25 @@ flowchart LR
     C -->|Delete| B
 
 
+
+*(remove this entire block — it is the cause of the error)*
+
+---
+
+# 🎉 RESULT
+After replacing:
+- GitHub will render mermaid diagrams properly
+- No lexical / parse errors
+- Clean formatting
+
+---
+
+
+```markdown
 ## ✨ Author
+
 👤 **Arkan Tandel**  
 📍 India  
-📧 Email: arkantandel@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/arkan-tandel-81709b360
+📧 Email: **arkantandel@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/arkan-tandel-81709b360  
+💻 GitHub: https://github.com/arkantandel  
