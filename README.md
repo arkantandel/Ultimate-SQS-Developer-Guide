@@ -110,7 +110,7 @@ Helps to debug errors without losing data.
 
 # 🧪 **Testing Example Workflow**
 
-## 🧠 Architecture Diagram — Basic Workflow
+## Architecture Diagram — Basic Workflow
 
 ```mermaid
 flowchart LR
@@ -119,7 +119,7 @@ flowchart LR
     C -->|Process| D[(Database / Service)]
     C -->|Delete| B
 
-## 🧠 Architecture Diagram — Basic Workflow
+##  Architecture Diagram — Basic Workflow
 
 ```mermaid
 flowchart LR
@@ -134,7 +134,7 @@ flowchart LR
 
 ---
 
-# 🎉 RESULT
+# RESULT
 After replacing:
 - GitHub will render mermaid diagrams properly
 - No lexical / parse errors
@@ -144,7 +144,7 @@ After replacing:
 
 
 ```markdown
-## ✨ Author
+##  Author
 
 👤 **Arkan Tandel**  
 📍 India  
